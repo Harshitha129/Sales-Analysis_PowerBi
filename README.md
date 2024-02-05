@@ -1,4 +1,9 @@
-# Sales Data Analysis
+# Sales Data Analysis 📈📊
+
+
+![PowerBiJobDoneGIF](https://github.com/Harshitha129/Sales-Analysis_PowerBi/assets/89914609/2dfe1974-04b9-46a3-8a6d-07e947698776)
+
+
 
 ## Table of Content
 
@@ -20,7 +25,7 @@ The project aims to conduct a thorough analysis of sales data to provide valuabl
 ### Data Source
 
 Sales Data: The primary dataset used for this analysis is the "SN Corp.xlsx" file, containing detailed information about each sale made by the company.
-- [Download here](https://github.com/Harshitha129/SN_Corp_Project/files/14013297/SN.Corp.xlsx)
+- [Download Dataset here](https://github.com/Harshitha129/SN_Corp_Project/files/14013297/SN.Corp.xlsx)
   
 ### Tools
 
