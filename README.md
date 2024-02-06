@@ -17,10 +17,11 @@
 The project aims to conduct a thorough analysis of sales data to provide valuable insights and recommendations for optimizing business processes, enhancing revenue generation, and improving overall performance. The dataset under consideration includes detailed information about sales, product details, and other relevant variables.
 
 #### Column Chart
-![Column Chart_SN](https://github.com/Harshitha129/Sales-Analysis_PowerBi/assets/89914609/dee2469c-f88a-41f6-8f06-b40256e11379)
+<img align="center" alt="Column Chart_SN" width="800" src="https://github.com/Harshitha129/Sales-Analysis_PowerBi/assets/89914609/dee2469c-f88a-41f6-8f06-b40256e11379">
 
 #### Pie Chart
-![Pie Chart_SN](https://github.com/Harshitha129/Sales-Analysis_PowerBi/assets/89914609/8238b28b-54bf-460a-9c0d-2ebd49d9872d)
+<img align="center" alt="Pie_chart" src="https://github.com/Harshitha129/Sales-Analysis_PowerBi/assets/89914609/8238b28b-54bf-460a-9c0d-2ebd49d9872d">
+
 
 ### Data Source
 
