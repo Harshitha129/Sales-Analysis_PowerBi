@@ -67,17 +67,18 @@ The analysis results are summarized as follows:
 - The total sales from France in business starting year of 2017 is 65.8K.
 - 133K bookcases are sold in Central region.
 
-#### SN Corporation Dashboard
-![SN Corp Dashboard](https://github.com/Harshitha129/Sales-Analysis_PowerBi/assets/89914609/6aa21438-2ee8-4655-b14b-c2e945887548)
+### SN Corporation Dashboard
+
+<img align="center" alt="Dashboard" width="600" src="https://github.com/Harshitha129/Sales-Analysis_PowerBi/assets/89914609/6aa21438-2ee8-4655-b14b-c2e945887548">
 
 
 
-### Recommendations
+## Recommendations
 
 Based on the analysis, we recommend the following actions:
 - Focus on expanding and promoting products.
 - Implement a customer segmentation strategy to target customers effectively.
 
-### Limitations
+## Limitations
 I had to remove all zero values from budget because they would have affected the accuracy of my conclusions from the analysis.
 
